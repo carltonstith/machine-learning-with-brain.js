@@ -11,5 +11,8 @@
     "url": "machine-learning-with-brain.js"
   },
   "author": "Carlton Stith",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.2.8"
+  }
 }
