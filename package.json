@@ -1,0 +1,15 @@
+{
+  "name": "brainjs-examples",
+  "version": "1.0.0",
+  "description": "A simple machine learning exercise using Brain.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "machine-learning-with-brain.js"
+  },
+  "author": "Carlton Stith",
+  "license": "ISC"
+}
